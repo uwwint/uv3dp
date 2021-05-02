@@ -20,6 +20,7 @@ var (
 	machines_ctb_3 = map[string]uv3dp.Machine{
 		"mars2-pro": {Vendor: "Elegoo", Model: "Mars 2 Pro", Size: uv3dp.MachineSize{1620, 2560, 82.62, 130.56}},
 		"sonic-mini-4k" : {Vendor: "Phrozen", Model: "Sonic Mini 4K", Size: uv3dp.MachineSize{3840, 2160, 134.4, 75.6}},
+		"sonic-mighty-4k" : {Vendor: "Phrozen", Model: "Sonic Mighty 4K", Size: uv3dp.MachineSize{3840, 2160, 199.68, 124.8}},
 	}
 )
 
